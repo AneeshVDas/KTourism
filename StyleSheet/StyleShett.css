@@ -1,3 +1,8 @@
+.navbar-nav > li{
+  padding-left:10px;
+  padding-right:10px;
+}
+
 body {
   background-image: url('Picture\thenmala.jpeg');
   background-repeat: no-repeat;
